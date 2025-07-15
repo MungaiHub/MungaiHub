@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amos Njama Mungai
 
-🎓 I'm a **Computer Science student** at Murang'a University of Technology, passionate about **software development** and **web technologies**.
+🎓 I'm a **Computer Science student** , passionate about **software development** and **web technologies**.
 
 ---
 
