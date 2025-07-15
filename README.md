@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Amos Njama Mungai
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE4cHF3c240dnZod2hua29tODNyOWNneW9qMng5em44am5sajBrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 🎓 I'm a **Computer Science student** , passionate about **software development** and **web technologies**.
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE4cHF3c240dnZod2hua29tODNyOWNneW9qMng5em44am5sajBrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 ---
 
