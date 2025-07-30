@@ -32,6 +32,13 @@ More projects coming soon!
 - Email: amosmungai085@gmail.com
 - 
 ---
+## 🔥 GitHub Stats
+
+![MungaiHub GitHub stats](https://github-readme-stats.vercel.app/api?username=amosmungai&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amosmungai&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amosmungai&layout=compact&theme=radical)
 
 ## ⚙️ Tech Stack
 
@@ -39,4 +46,6 @@ More projects coming soon!
 Languages:      C#, Python, HTML, CSS, JavaScript,php
 Frameworks:     .NET, django
 Tools:          Git, GitHub, VS Code, MySQL
+
+
 
