@@ -32,13 +32,14 @@ More projects coming soon!
 - Email: amosmungai085@gmail.com
 - 
 ---
-## 🔥 GitHub Stats
 
-![MungaiHub GitHub stats](https://github-readme-stats.vercel.app/api?username=amosmungai&show_icons=true&theme=radical)
+## 🚀 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amosmungai&theme=radical)
+![MungaiHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=MungaiHub&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amosmungai&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MungaiHub&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MungaiHub&layout=compact&theme=radical)
 
 ## ⚙️ Tech Stack
 
