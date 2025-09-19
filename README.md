@@ -38,7 +38,8 @@ More projects coming soon!
 ![MungaiHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=MungaiHub&show_icons=true&theme=radical&cache_seconds=86400)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MungaiHub&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats-ce4w5y4e8-amos-projects-1a691a2e.vercel.app/?user=MungaiHub&theme=radical&cache_seconds=86400)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MungaiHub&layout=compact&theme=radical)
 
