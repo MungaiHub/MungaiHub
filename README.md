@@ -7,6 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00C4FF&center=true&vCenter=true&width=700&lines=👋+Team+Player;🚀+Always+Ready+to+Learn;💻+Software+Developer;🌐+Web+Technologies+Enthusiast;🤝+Open+for+Collaborations;📊+Data+Science+Explorer;🔐✨+Thanks+for+Visiting+My+GitHub!)](https://git.io/typing-svg)
 
 - 💻 Aspiring **Software Developer**
 - 🌐 Interested in **Web Technologies**, **Databases**, and **System Design**
