@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="800"/>
+</p>
+
+
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Amos Njama Mungai
 
 
