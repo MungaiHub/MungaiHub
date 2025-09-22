@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Amos Njama Mungai
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Amos Njama Mungai
+
 
 🎓 I'm a **Computer Science student** , passionate about **software development** and **web technologies**.
 
