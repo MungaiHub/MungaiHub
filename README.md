@@ -51,7 +51,7 @@ More projects coming soon!
 ## ⚙️ Tech Stack
 
 ```txt
-Languages:      C#, Python, HTML, CSS, JavaScript
+Languages:      C#, Python, HTML, CSS, JavaScript,php,c
 Frameworks:     .NET, django, streamlit
 Tools:          Git, GitHub, VS Code, MySQL
 
