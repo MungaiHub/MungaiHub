@@ -47,7 +47,12 @@ More projects coming soon!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MungaiHub&layout=compact&theme=radical)
+## 💻 Developer Metrics
 
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MungaiHub&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+### 📈 Contribution Graph
+[![MungaiHub's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MungaiHub&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 ## ⚙️ Tech Stack
 
 ```txt
