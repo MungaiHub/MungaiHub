@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me
-## 👨‍💻 About Me
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00C4FF&center=true&vCenter=true&width=850&lines=👋+Hello!+I'm+Amos+Njama+Mungai;💻+Software+Developer+%7C+Data+Analyst;🤝+Collaborative+and+Team+Player;📈+Exploring+Data+Science+and+Machine+Learning;🌐+Passionate+about+Building+Web+Applications;🧠+Transforming+Data+into+Actionable+Insights;🚀+Always+Learning+and+Improving;✨+Thanks+for+Visiting+My+GitHub!)](https://git.io/typing-svg)
 
 
