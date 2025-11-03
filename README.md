@@ -34,6 +34,7 @@ More projects coming soon!
 ---
 
 ## 📫 Let's Connect
+# 💻 Developer Metrics
 
 - GitHub: [github.com/MungaiHub](https://github.com/MungaiHub)
 - Email: amosmungai085@gmail.com
@@ -49,7 +50,6 @@ More projects coming soon!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MungaiHub&layout=compact&theme=radical)
-## 💻 Developer Metrics
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MungaiHub&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -60,7 +60,7 @@ More projects coming soon!
 ```txt
 Languages:      C#, Python, HTML, CSS, JavaScript,php,c
 Frameworks:     .NET, django, streamlit
-Tools:          Git, GitHub, VS Code, MySQL
+Tools:          Git, GitHub, VS Code, MySQL,react
 
 
 
