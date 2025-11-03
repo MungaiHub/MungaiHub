@@ -34,12 +34,13 @@ More projects coming soon!
 ---
 
 ## 📫 Let's Connect
-# 💻 Developer Metrics
+
 
 - GitHub: [github.com/MungaiHub](https://github.com/MungaiHub)
 - Email: amosmungai085@gmail.com
 - 
 ---
+# 💻 Developer Metrics
 
 ## 🚀 GitHub Stats
 
