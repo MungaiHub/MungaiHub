@@ -37,7 +37,7 @@ More projects coming soon!
 
 
 - GitHub: [github.com/MungaiHub](https://github.com/MungaiHub)
-- Email: amosmungai085@gmail.com
+- Email: njaama91@gmail.com
 - 
 ---
 # 💻 Developer Metrics
