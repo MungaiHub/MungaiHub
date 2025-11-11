@@ -38,7 +38,7 @@ More projects coming soon!
 
 - GitHub: [github.com/MungaiHub](https://github.com/MungaiHub)
 - Email: njaama91@gmail.com
-- - LinkedIn: [linkedin.com/in/amos-mungai-210567297](https://www.linkedin.com/in/amos-mungai-210567297/)
+- LinkedIn: [linkedin.com/in/amos-mungai-210567297](https://www.linkedin.com/in/amos-mungai-210567297/)
 ---
 # 💻 Developer Metrics
 
