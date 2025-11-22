@@ -60,7 +60,7 @@ More projects coming soon!
 
 ```txt
 Languages:      C#, Python, HTML, CSS, JavaScript,php,c
-Frameworks:     .NET, django, streamlit
+Frameworks:     .NET, django, streamlit,react
 Tools:          Git, GitHub, VS Code, MySQL,react
 
 
