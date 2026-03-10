@@ -12,6 +12,7 @@
 **Stack:** `Python` `C#` `JavaScript` `React` `Django` `MySQL`
 
 📧 njaama91@gmail.com · [LinkedIn](https://linkedin.com/in/amos-mungai-210567297)
+![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&width=100&lines=%3C%2F%3E)
 
 
 
