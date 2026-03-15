@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Amos Njama Mungai
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Amos Mungai
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MungaiHub&color=0e75b6&style=flat)
 
