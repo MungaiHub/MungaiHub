@@ -22,4 +22,26 @@
   </p>
 
 </div>
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <!-- General Stats (Includes Commits, PRs, Issues, and Rank) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MungaiHub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Amos's GitHub Stats" width="49%" />
+  
+  <!-- Top Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MungaiHub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MungaiHub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Code, learn, iterate, repeat."</i></p>
+</div>
 
