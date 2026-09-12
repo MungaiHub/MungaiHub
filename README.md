@@ -22,9 +22,11 @@
 
 📧 njaama91@gmail.com · [LinkedIn](https://linkedin.com/in/amos-mungai-210567297)
 
-</div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MungaiHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MungaiHub&theme=radical" />
 </div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MungaiHub&layout=compact&theme=radical" />
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MungaiHub&layout=compact&theme=radical" />
+</div>
