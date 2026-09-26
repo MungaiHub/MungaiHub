@@ -28,5 +28,5 @@
 </div>
 
 <div align="center">
-  ![Anurag Hazra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MungaiHub&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MungaiHub&layout=compact&theme=radical" />
 </div>
