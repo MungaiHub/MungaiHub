@@ -14,6 +14,7 @@
 
 <div align="center">
   <img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api?username=MungaiHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  ![GitHub Stats](https://YOUR-VERCEL-DOMAIN/api?username=MungaiHub&show_icons=true&theme=tokyonight)
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MungaiHub&theme=radical" />
 </div>
